@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RestaurantPanelMVC.Web", "RestaurantPanelMVC.Web\RestaurantPanelMVC.Web.csproj", "{6AC7B4A6-7104-4355-8E4A-9F617A4DA3AB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{D3A1B053-B4EA-4E5A-A9B9-72280883862F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestaurantPanelMVC.Application", "RestaurantPanelMVC.Application\RestaurantPanelMVC.Application.csproj", "{186871BC-AE30-45C3-AAC4-AFD5BB6A5C7E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{2D04C7CE-2701-42BC-8962-E78FCCE10AFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestaurantPanelMVC.Domain", "RestaurantPanelMVC.Domain\RestaurantPanelMVC.Domain.csproj", "{44C138AF-0B6F-4965-88DC-5D266656F3D3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{208B329D-DF87-44B4-B856-748499003A23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestaurantPanelMVC.Infrastructure", "RestaurantPanelMVC.Infrastructure\RestaurantPanelMVC.Infrastructure.csproj", "{9F61F0E1-CDE4-49A0-A0D2-728A765EF35D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AC7B4A6-7104-4355-8E4A-9F617A4DA3AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AC7B4A6-7104-4355-8E4A-9F617A4DA3AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AC7B4A6-7104-4355-8E4A-9F617A4DA3AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AC7B4A6-7104-4355-8E4A-9F617A4DA3AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{186871BC-AE30-45C3-AAC4-AFD5BB6A5C7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{186871BC-AE30-45C3-AAC4-AFD5BB6A5C7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{186871BC-AE30-45C3-AAC4-AFD5BB6A5C7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{186871BC-AE30-45C3-AAC4-AFD5BB6A5C7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44C138AF-0B6F-4965-88DC-5D266656F3D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44C138AF-0B6F-4965-88DC-5D266656F3D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44C138AF-0B6F-4965-88DC-5D266656F3D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44C138AF-0B6F-4965-88DC-5D266656F3D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F61F0E1-CDE4-49A0-A0D2-728A765EF35D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F61F0E1-CDE4-49A0-A0D2-728A765EF35D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F61F0E1-CDE4-49A0-A0D2-728A765EF35D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F61F0E1-CDE4-49A0-A0D2-728A765EF35D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{186871BC-AE30-45C3-AAC4-AFD5BB6A5C7E} = {D3A1B053-B4EA-4E5A-A9B9-72280883862F}
+		{44C138AF-0B6F-4965-88DC-5D266656F3D3} = {2D04C7CE-2701-42BC-8962-E78FCCE10AFA}
+		{9F61F0E1-CDE4-49A0-A0D2-728A765EF35D} = {208B329D-DF87-44B4-B856-748499003A23}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECCF9D27-8EB7-4E2C-8EE4-95958EC90A08}
+	EndGlobalSection
+EndGlobal
