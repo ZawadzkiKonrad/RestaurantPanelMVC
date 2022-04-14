@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\48797\\Documents\\web\\RestaurantPanelMVC.Web\\RestaurantPanelMVC.Infrastructure\\RestaurantPanelMVC.Infrastructure.csproj": {}
+    "C:\\Users\\plradzko\\source\\repos\\RestaurantPanelMVC\\RestaurantPanelMVC.Infrastructure\\RestaurantPanelMVC.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\48797\\Documents\\web\\RestaurantPanelMVC.Web\\RestaurantPanelMVC.Domain\\RestaurantPanelMVC.Domain.csproj": {
+    "C:\\Users\\plradzko\\source\\repos\\RestaurantPanelMVC\\RestaurantPanelMVC.Domain\\RestaurantPanelMVC.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\48797\\Documents\\web\\RestaurantPanelMVC.Web\\RestaurantPanelMVC.Domain\\RestaurantPanelMVC.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\plradzko\\source\\repos\\RestaurantPanelMVC\\RestaurantPanelMVC.Domain\\RestaurantPanelMVC.Domain.csproj",
         "projectName": "RestaurantPanelMVC.Domain",
-        "projectPath": "C:\\Users\\48797\\Documents\\web\\RestaurantPanelMVC.Web\\RestaurantPanelMVC.Domain\\RestaurantPanelMVC.Domain.csproj",
-        "packagesPath": "C:\\Users\\48797\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\48797\\Documents\\web\\RestaurantPanelMVC.Web\\RestaurantPanelMVC.Domain\\obj\\",
+        "projectPath": "C:\\Users\\plradzko\\source\\repos\\RestaurantPanelMVC\\RestaurantPanelMVC.Domain\\RestaurantPanelMVC.Domain.csproj",
+        "packagesPath": "C:\\Users\\plradzko\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\plradzko\\source\\repos\\RestaurantPanelMVC\\RestaurantPanelMVC.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\48797\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\plradzko\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,6 +43,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.16, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -54,21 +64,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\48797\\Documents\\web\\RestaurantPanelMVC.Web\\RestaurantPanelMVC.Infrastructure\\RestaurantPanelMVC.Infrastructure.csproj": {
+    "C:\\Users\\plradzko\\source\\repos\\RestaurantPanelMVC\\RestaurantPanelMVC.Infrastructure\\RestaurantPanelMVC.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\48797\\Documents\\web\\RestaurantPanelMVC.Web\\RestaurantPanelMVC.Infrastructure\\RestaurantPanelMVC.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\plradzko\\source\\repos\\RestaurantPanelMVC\\RestaurantPanelMVC.Infrastructure\\RestaurantPanelMVC.Infrastructure.csproj",
         "projectName": "RestaurantPanelMVC.Infrastructure",
-        "projectPath": "C:\\Users\\48797\\Documents\\web\\RestaurantPanelMVC.Web\\RestaurantPanelMVC.Infrastructure\\RestaurantPanelMVC.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\48797\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\48797\\Documents\\web\\RestaurantPanelMVC.Web\\RestaurantPanelMVC.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\plradzko\\source\\repos\\RestaurantPanelMVC\\RestaurantPanelMVC.Infrastructure\\RestaurantPanelMVC.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\plradzko\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\plradzko\\source\\repos\\RestaurantPanelMVC\\RestaurantPanelMVC.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\48797\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\plradzko\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -82,8 +96,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\48797\\Documents\\web\\RestaurantPanelMVC.Web\\RestaurantPanelMVC.Domain\\RestaurantPanelMVC.Domain.csproj": {
-                "projectPath": "C:\\Users\\48797\\Documents\\web\\RestaurantPanelMVC.Web\\RestaurantPanelMVC.Domain\\RestaurantPanelMVC.Domain.csproj"
+              "C:\\Users\\plradzko\\source\\repos\\RestaurantPanelMVC\\RestaurantPanelMVC.Domain\\RestaurantPanelMVC.Domain.csproj": {
+                "projectPath": "C:\\Users\\plradzko\\source\\repos\\RestaurantPanelMVC\\RestaurantPanelMVC.Domain\\RestaurantPanelMVC.Domain.csproj"
               }
             }
           }
@@ -97,6 +111,16 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.16, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -112,7 +136,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,12 @@
+C:\Users\plradzko\Source\Repos\RestaurantPanelMVC\RestaurantPanelMVC.Domain\bin\Debug\net5.0\RestaurantPanelMVC.Domain.deps.json
+C:\Users\plradzko\Source\Repos\RestaurantPanelMVC\RestaurantPanelMVC.Domain\bin\Debug\net5.0\RestaurantPanelMVC.Domain.dll
+C:\Users\plradzko\Source\Repos\RestaurantPanelMVC\RestaurantPanelMVC.Domain\bin\Debug\net5.0\RestaurantPanelMVC.Domain.pdb
+C:\Users\plradzko\Source\Repos\RestaurantPanelMVC\RestaurantPanelMVC.Domain\obj\Debug\net5.0\RestaurantPanelMVC.Domain.csproj.AssemblyReference.cache
+C:\Users\plradzko\Source\Repos\RestaurantPanelMVC\RestaurantPanelMVC.Domain\obj\Debug\net5.0\RestaurantPanelMVC.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plradzko\Source\Repos\RestaurantPanelMVC\RestaurantPanelMVC.Domain\obj\Debug\net5.0\RestaurantPanelMVC.Domain.AssemblyInfoInputs.cache
+C:\Users\plradzko\Source\Repos\RestaurantPanelMVC\RestaurantPanelMVC.Domain\obj\Debug\net5.0\RestaurantPanelMVC.Domain.AssemblyInfo.cs
+C:\Users\plradzko\Source\Repos\RestaurantPanelMVC\RestaurantPanelMVC.Domain\obj\Debug\net5.0\RestaurantPanelMVC.Domain.csproj.CoreCompileInputs.cache
+C:\Users\plradzko\Source\Repos\RestaurantPanelMVC\RestaurantPanelMVC.Domain\obj\Debug\net5.0\RestaurantPanelMVC.Domain.dll
+C:\Users\plradzko\Source\Repos\RestaurantPanelMVC\RestaurantPanelMVC.Domain\obj\Debug\net5.0\refint\RestaurantPanelMVC.Domain.dll
+C:\Users\plradzko\Source\Repos\RestaurantPanelMVC\RestaurantPanelMVC.Domain\obj\Debug\net5.0\RestaurantPanelMVC.Domain.pdb
+C:\Users\plradzko\Source\Repos\RestaurantPanelMVC\RestaurantPanelMVC.Domain\obj\Debug\net5.0\ref\RestaurantPanelMVC.Domain.dll

@@ -1,0 +1,15 @@
+C:\Users\plradzko\Source\Repos\RestaurantPanelMVC\RestaurantPanelMVC.Infrastructure\bin\Debug\net5.0\RestaurantPanelMVC.Infrastructure.deps.json
+C:\Users\plradzko\Source\Repos\RestaurantPanelMVC\RestaurantPanelMVC.Infrastructure\bin\Debug\net5.0\RestaurantPanelMVC.Infrastructure.dll
+C:\Users\plradzko\Source\Repos\RestaurantPanelMVC\RestaurantPanelMVC.Infrastructure\bin\Debug\net5.0\RestaurantPanelMVC.Infrastructure.pdb
+C:\Users\plradzko\Source\Repos\RestaurantPanelMVC\RestaurantPanelMVC.Infrastructure\bin\Debug\net5.0\RestaurantPanelMVC.Domain.dll
+C:\Users\plradzko\Source\Repos\RestaurantPanelMVC\RestaurantPanelMVC.Infrastructure\bin\Debug\net5.0\RestaurantPanelMVC.Domain.pdb
+C:\Users\plradzko\Source\Repos\RestaurantPanelMVC\RestaurantPanelMVC.Infrastructure\obj\Debug\net5.0\RestaurantPanelMVC.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\plradzko\Source\Repos\RestaurantPanelMVC\RestaurantPanelMVC.Infrastructure\obj\Debug\net5.0\RestaurantPanelMVC.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plradzko\Source\Repos\RestaurantPanelMVC\RestaurantPanelMVC.Infrastructure\obj\Debug\net5.0\RestaurantPanelMVC.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\plradzko\Source\Repos\RestaurantPanelMVC\RestaurantPanelMVC.Infrastructure\obj\Debug\net5.0\RestaurantPanelMVC.Infrastructure.AssemblyInfo.cs
+C:\Users\plradzko\Source\Repos\RestaurantPanelMVC\RestaurantPanelMVC.Infrastructure\obj\Debug\net5.0\RestaurantPanelMVC.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\plradzko\Source\Repos\RestaurantPanelMVC\RestaurantPanelMVC.Infrastructure\obj\Debug\net5.0\RestaurantPanelMVC.Infrastructure.csproj.CopyComplete
+C:\Users\plradzko\Source\Repos\RestaurantPanelMVC\RestaurantPanelMVC.Infrastructure\obj\Debug\net5.0\RestaurantPanelMVC.Infrastructure.dll
+C:\Users\plradzko\Source\Repos\RestaurantPanelMVC\RestaurantPanelMVC.Infrastructure\obj\Debug\net5.0\refint\RestaurantPanelMVC.Infrastructure.dll
+C:\Users\plradzko\Source\Repos\RestaurantPanelMVC\RestaurantPanelMVC.Infrastructure\obj\Debug\net5.0\RestaurantPanelMVC.Infrastructure.pdb
+C:\Users\plradzko\Source\Repos\RestaurantPanelMVC\RestaurantPanelMVC.Infrastructure\obj\Debug\net5.0\ref\RestaurantPanelMVC.Infrastructure.dll
