@@ -11,48 +11,66 @@
     <a asp-action="Create">Create New</a>
 </p>
 <table class="table">
-  
+
     <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <th>
-                @Html.DisplayFor(modelItem => item.Category)
-            </th>
-            <td>
-                @Html.DisplayFor(modelItem => item.Category)
-            </td>
-            <td>
-                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
-                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
-                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
-            </td>
-        </tr>
-}
-    </tbody>
-</table>
+        @foreach (var item in Model)
+        {
 
 
-@*<table class="table">
-    <thead>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.Category)
-            </th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-@foreach (var item in Model.Where(x=>x.Category=="Dania Główne")) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.Category)
-            </td>
-            <td>
-                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
-                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
-                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
-            </td>
-        </tr>
-}
-    </tbody>
-</table>*@
+        <thead>
+            <tr>
+                <th>
+                    <h1>@item.Category</h1>
+                </th>
+            </tr>
+            <tr>
+
+                <th>
+                    Name
+                </th>
+                <th>
+                    Price
+                </th>
+                <th>
+                    Identifier
+                </th>
+                <th>
+                    ID
+                </th>
+
+
+            </tr>
+
+        </thead>
+
+        @foreach (var dish in item.Dishes)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => dish.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => dish.Price)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => dish.Identifier)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => dish.Id)
+                </td>
+
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id=dish.Id  }) |
+                    @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                    @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+                </td>
+            </tr>
+        }
+
+
+
+    }
+        </tbody>
+    </table>
+
+

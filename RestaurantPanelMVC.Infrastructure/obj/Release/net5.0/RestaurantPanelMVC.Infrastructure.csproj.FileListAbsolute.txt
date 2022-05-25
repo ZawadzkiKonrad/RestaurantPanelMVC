@@ -1,0 +1,14 @@
+C:\Users\48797\Source\Repos\RestaurantPanelMVCNew\RestaurantPanelMVC.Infrastructure\bin\Release\net5.0\RestaurantPanelMVC.Infrastructure.deps.json
+C:\Users\48797\Source\Repos\RestaurantPanelMVCNew\RestaurantPanelMVC.Infrastructure\bin\Release\net5.0\RestaurantPanelMVC.Infrastructure.dll
+C:\Users\48797\Source\Repos\RestaurantPanelMVCNew\RestaurantPanelMVC.Infrastructure\bin\Release\net5.0\ref\RestaurantPanelMVC.Infrastructure.dll
+C:\Users\48797\Source\Repos\RestaurantPanelMVCNew\RestaurantPanelMVC.Infrastructure\bin\Release\net5.0\RestaurantPanelMVC.Infrastructure.pdb
+C:\Users\48797\Source\Repos\RestaurantPanelMVCNew\RestaurantPanelMVC.Infrastructure\bin\Release\net5.0\RestaurantPanelMVC.Domain.dll
+C:\Users\48797\Source\Repos\RestaurantPanelMVCNew\RestaurantPanelMVC.Infrastructure\bin\Release\net5.0\RestaurantPanelMVC.Domain.pdb
+C:\Users\48797\Source\Repos\RestaurantPanelMVCNew\RestaurantPanelMVC.Infrastructure\obj\Release\net5.0\RestaurantPanelMVC.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\48797\Source\Repos\RestaurantPanelMVCNew\RestaurantPanelMVC.Infrastructure\obj\Release\net5.0\RestaurantPanelMVC.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48797\Source\Repos\RestaurantPanelMVCNew\RestaurantPanelMVC.Infrastructure\obj\Release\net5.0\RestaurantPanelMVC.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\48797\Source\Repos\RestaurantPanelMVCNew\RestaurantPanelMVC.Infrastructure\obj\Release\net5.0\RestaurantPanelMVC.Infrastructure.AssemblyInfo.cs
+C:\Users\48797\Source\Repos\RestaurantPanelMVCNew\RestaurantPanelMVC.Infrastructure\obj\Release\net5.0\RestaurantPanelMVC.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\48797\Source\Repos\RestaurantPanelMVCNew\RestaurantPanelMVC.Infrastructure\obj\Release\net5.0\RestaurantPanelMVC.Infrastructure.dll
+C:\Users\48797\Source\Repos\RestaurantPanelMVCNew\RestaurantPanelMVC.Infrastructure\obj\Release\net5.0\ref\RestaurantPanelMVC.Infrastructure.dll
+C:\Users\48797\Source\Repos\RestaurantPanelMVCNew\RestaurantPanelMVC.Infrastructure\obj\Release\net5.0\RestaurantPanelMVC.Infrastructure.pdb

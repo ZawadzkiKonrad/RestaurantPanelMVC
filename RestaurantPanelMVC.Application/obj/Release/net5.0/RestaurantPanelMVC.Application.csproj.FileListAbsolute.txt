@@ -1,0 +1,14 @@
+C:\Users\48797\Source\Repos\RestaurantPanelMVCNew\RestaurantPanelMVC.Application\bin\Release\net5.0\RestaurantPanelMVC.Application.deps.json
+C:\Users\48797\Source\Repos\RestaurantPanelMVCNew\RestaurantPanelMVC.Application\bin\Release\net5.0\RestaurantPanelMVC.Application.dll
+C:\Users\48797\Source\Repos\RestaurantPanelMVCNew\RestaurantPanelMVC.Application\bin\Release\net5.0\ref\RestaurantPanelMVC.Application.dll
+C:\Users\48797\Source\Repos\RestaurantPanelMVCNew\RestaurantPanelMVC.Application\bin\Release\net5.0\RestaurantPanelMVC.Application.pdb
+C:\Users\48797\Source\Repos\RestaurantPanelMVCNew\RestaurantPanelMVC.Application\bin\Release\net5.0\RestaurantPanelMVC.Domain.dll
+C:\Users\48797\Source\Repos\RestaurantPanelMVCNew\RestaurantPanelMVC.Application\bin\Release\net5.0\RestaurantPanelMVC.Domain.pdb
+C:\Users\48797\Source\Repos\RestaurantPanelMVCNew\RestaurantPanelMVC.Application\obj\Release\net5.0\RestaurantPanelMVC.Application.csproj.AssemblyReference.cache
+C:\Users\48797\Source\Repos\RestaurantPanelMVCNew\RestaurantPanelMVC.Application\obj\Release\net5.0\RestaurantPanelMVC.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48797\Source\Repos\RestaurantPanelMVCNew\RestaurantPanelMVC.Application\obj\Release\net5.0\RestaurantPanelMVC.Application.AssemblyInfoInputs.cache
+C:\Users\48797\Source\Repos\RestaurantPanelMVCNew\RestaurantPanelMVC.Application\obj\Release\net5.0\RestaurantPanelMVC.Application.AssemblyInfo.cs
+C:\Users\48797\Source\Repos\RestaurantPanelMVCNew\RestaurantPanelMVC.Application\obj\Release\net5.0\RestaurantPanelMVC.Application.csproj.CoreCompileInputs.cache
+C:\Users\48797\Source\Repos\RestaurantPanelMVCNew\RestaurantPanelMVC.Application\obj\Release\net5.0\RestaurantPanelMVC.Application.dll
+C:\Users\48797\Source\Repos\RestaurantPanelMVCNew\RestaurantPanelMVC.Application\obj\Release\net5.0\ref\RestaurantPanelMVC.Application.dll
+C:\Users\48797\Source\Repos\RestaurantPanelMVCNew\RestaurantPanelMVC.Application\obj\Release\net5.0\RestaurantPanelMVC.Application.pdb

@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\RestaurantPanelMVC.Web",
+    "\\RestaurantPanelMVC.Web\\Controllers"
   ],
-  "SelectedNode": "\\RestaurantPanelMVC.Web.sln",
+  "SelectedNode": "\\RestaurantPanelMVC.Web\\Controllers\\MenuController.cs",
   "PreviewInSolutionExplorer": false
 }

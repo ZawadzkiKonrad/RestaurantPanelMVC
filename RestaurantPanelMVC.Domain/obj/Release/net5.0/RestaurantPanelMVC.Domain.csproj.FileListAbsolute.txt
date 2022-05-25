@@ -1,0 +1,12 @@
+C:\Users\48797\Source\Repos\RestaurantPanelMVCNew\RestaurantPanelMVC.Domain\bin\Release\net5.0\RestaurantPanelMVC.Domain.deps.json
+C:\Users\48797\Source\Repos\RestaurantPanelMVCNew\RestaurantPanelMVC.Domain\bin\Release\net5.0\RestaurantPanelMVC.Domain.dll
+C:\Users\48797\Source\Repos\RestaurantPanelMVCNew\RestaurantPanelMVC.Domain\bin\Release\net5.0\ref\RestaurantPanelMVC.Domain.dll
+C:\Users\48797\Source\Repos\RestaurantPanelMVCNew\RestaurantPanelMVC.Domain\bin\Release\net5.0\RestaurantPanelMVC.Domain.pdb
+C:\Users\48797\Source\Repos\RestaurantPanelMVCNew\RestaurantPanelMVC.Domain\obj\Release\net5.0\RestaurantPanelMVC.Domain.csproj.AssemblyReference.cache
+C:\Users\48797\Source\Repos\RestaurantPanelMVCNew\RestaurantPanelMVC.Domain\obj\Release\net5.0\RestaurantPanelMVC.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48797\Source\Repos\RestaurantPanelMVCNew\RestaurantPanelMVC.Domain\obj\Release\net5.0\RestaurantPanelMVC.Domain.AssemblyInfoInputs.cache
+C:\Users\48797\Source\Repos\RestaurantPanelMVCNew\RestaurantPanelMVC.Domain\obj\Release\net5.0\RestaurantPanelMVC.Domain.AssemblyInfo.cs
+C:\Users\48797\Source\Repos\RestaurantPanelMVCNew\RestaurantPanelMVC.Domain\obj\Release\net5.0\RestaurantPanelMVC.Domain.csproj.CoreCompileInputs.cache
+C:\Users\48797\Source\Repos\RestaurantPanelMVCNew\RestaurantPanelMVC.Domain\obj\Release\net5.0\RestaurantPanelMVC.Domain.dll
+C:\Users\48797\Source\Repos\RestaurantPanelMVCNew\RestaurantPanelMVC.Domain\obj\Release\net5.0\ref\RestaurantPanelMVC.Domain.dll
+C:\Users\48797\Source\Repos\RestaurantPanelMVCNew\RestaurantPanelMVC.Domain\obj\Release\net5.0\RestaurantPanelMVC.Domain.pdb

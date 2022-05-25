@@ -32,7 +32,7 @@ namespace RestaurantPanelMVC.Web.Controllers
             using (var httpClient= new HttpClient())
             {
                 StringContent stringContent= new StringContent(JsonConvert.SerializeObject(user), Encoding.UTF8,"application/json");
-                using (var response = await httpClient.PostAsync("https://localhost:5001/api/account/login",stringContent))
+                using (var response = await httpClient.PostAsync("http://ekelnerapp.hostingasp.pl/api/account/login", stringContent))
                 {
                     string token = await response.Content.ReadAsStringAsync();
                     if (token=="Invalid credentials")
